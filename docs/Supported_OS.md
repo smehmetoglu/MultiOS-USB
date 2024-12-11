@@ -16,7 +16,7 @@ Below is just a list of tested and working systems. The actual number of support
 | [Debian (trixie testing)](https://cdimage.debian.org/cdimage/weekly-live-builds/amd64/iso-hybrid/) | [debian-live-testing-amd64-xfce.iso](https://cdimage.debian.org/cdimage/weekly-live-builds/amd64/iso-hybrid/debian-live-testing-amd64-xfce.iso) | yes | yes | yes | Debian |
 | [Devuan](https://www.devuan.org) | devuan_daedalus_5.0.0_amd64_desktop-live.iso | no | [no](../config/devuan) | yes | Debian |
 |  | devuan_daedalus_5.0.0_amd64_minimal-live.iso | no | [no](../config/devuan) | yes | Debian |
-| [Dr.Parted Live](https://dr-parted-live.sourceforge.io) | [Dr.Parted-Live24.03.1-amd64.iso](https://sourceforge.net/projects/dr-parted-live/files/Download/Dr.Parted-Live24.03.1-amd64.iso) | no | no | yes | Debian |
+| [Dr.Parted Live](https://dr-parted-live.sourceforge.io) | [Dr.Parted-Live24.03.1-amd64.iso](https://sourceforge.net/projects/dr-parted-live/files/Download/Dr.Parted-Live24.03.1-amd64.iso) | no | [no](../config/dr-parted-live) | yes | Debian |
 | [EndeavourOS](https://endeavouros.com) | [EndeavourOS_Gemini-2024.04.20.iso](https://mirror.alpix.eu/endeavouros/iso/EndeavourOS_Gemini-2024.04.20.iso) | yes | [no](../config/endeavourOS) | no | - |
 | [EuroLinux](https://euro-linux.com) | [ELD-9.3-x86_64-20240223-eld-live.iso](https://dn.euro-linux.com/ELD-9.3-x86_64-20240223-eld-live.iso) | yes | [no](../config/euroLinux) | yes | RedHat |
 |  | [EL-9.3-x86_64-20231113-minimal.iso](https://dn.euro-linux.com/EL-9.3-x86_64-20231113-minimal.iso) | yes | [no](../config/euroLinux) | no | - |
@@ -36,6 +36,9 @@ Below is just a list of tested and working systems. The actual number of support
 |  | [Fedora-Workstation-Live-x86_64-40-1.14.iso](https://download.fedoraproject.org/pub/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-1.14.iso) | yes | [no](../config/fedora) | yes | Fedora |
 | [Finnix](https://www.finnix.org) | [finnix-125.iso](https://www.finnix.org/releases/125/finnix-125.iso) | no | yes | yes | Debian |
 |  | [finnix-126.iso](https://www.finnix.org/releases/126/finnix-126.iso) | yes | yes | yes | Debian |
+| [Gentoo](https://www.gentoo.org) | [install-amd64-minimal-20241124T163746Z.iso](https://distfiles.gentoo.org/releases/amd64/autobuilds/20241124T163746Z/install-amd64-minimal-20241124T163746Z.iso) | yes | [no](../config/gentoo) | no | - |
+|  | [admincd-amd64-20241124T163746Z.iso](https://distfiles.gentoo.org/releases/amd64/autobuilds/20241124T163746Z/admincd-amd64-20241124T163746Z.iso) | yes | [no](../config/gentoo) | no | - |
+|  | [livegui-amd64-20241124T163746Z.iso](https://distfiles.gentoo.org/releases/amd64/autobuilds/20241124T163746Z/livegui-amd64-20241124T163746Z.iso) | yes | [no](../config/gentoo) | no | - |
 | [GParted Live](https://gparted.org/livecd.php) | [gparted-live-1.6.0-1-amd64.iso](https://downloads.sourceforge.net/gparted/gparted-live-1.6.0-1-amd64.iso) | no | [no](../config/gparted) | yes | Debian |
 | [Grml](https://www.grml.org) | [grml64-full_2024.02.iso](https://download.grml.org/grml64-full_2024.02.iso) | no | yes | yes | Debian |
 |  | [grml64-small_2024.02.iso](https://download.grml.org/grml64-small_2024.02.iso) | no | yes | yes | Debian |
